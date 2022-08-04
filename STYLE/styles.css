@@ -9,11 +9,11 @@ body {
     background: #FAF7FD;
     flex-direction: column;
     width: 100vw;
-    border: 2px solid #BB99DD;
     align-items: center;
     padding-top: 100px;
     padding-bottom: 100px;
     gap: 44px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .maskGroup {
@@ -38,7 +38,7 @@ body {
 .instagramLink {
     width: 99px;
     height: 24px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 300;
     font-size: 16px;
@@ -53,12 +53,13 @@ body {
     height: 49px;
     border: 2px solid #BB99DD;
     border-radius: 4px;
+    font-family: 'Poppins';
 }
 
 .link1 {
     width: 326px;
     height: 24px;
-    font-family: 'Poppins';
+    font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
@@ -68,6 +69,7 @@ body {
     justify-content: center;
     text-transform: uppercase;
     color: #BB99DD;
+    text-decoration: none;
 }
 
 .rectangle2 {
@@ -91,6 +93,7 @@ body {
     justify-content: center;
     text-transform: uppercase;
     color: #BB99DD;
+    text-decoration: none;
 }
 
 .rectangle3 {
@@ -114,6 +117,7 @@ body {
     justify-content: center;
     text-transform: uppercase;
     color: #BB99DD;
+    text-decoration: none;
 }
 
 .rectangle4 {
@@ -137,6 +141,7 @@ body {
     justify-content: center;
     text-transform: uppercase;
     color: #BB99DD;
+    text-decoration: none;
 }
 
 .group1 {
@@ -145,5 +150,4 @@ body {
     margin: 0 auto;
     width: 236px;
     height: 24px;
-    /* border: 2px solid #BB99DD; */
 }
